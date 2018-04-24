@@ -1,2 +1,2 @@
-# Mixamo-Gif-Thumbnails
+# Mixamo Gif Thumbnails
 MixamoGifThumbnails
