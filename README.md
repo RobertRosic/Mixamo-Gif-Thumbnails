@@ -1,0 +1,2 @@
+# Mixamo-Gif-Thumbnails
+MixamoGifThumbnails
